@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Oscar Diaz Vega**
 
-Time spent: **#** hours spent in total
+Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/morning-ajar-basil?path=script.js%3A1%3A0)
 
 ## Required Functionality
 

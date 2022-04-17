@@ -47,15 +47,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-All of the information used in completing my website submission was from CodePath.
+[I used a javscript tutorial youtube video by Programming with Mosh to help me learn the syntax and power of javascript. ]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The biggest challenge I encountered when trying to make the Light and Sound Memory Game was not knowing any JavaScript prior to the task. All of the logic of the game came down to implementing it with JavaScript and not knowing any JavaScript made it difficult. To overcome this, I looked at all of the references given by CodePath. For example, I read the documentation provided for the getElementById function to learn what the function does, how it works, and how it can be used in different situations. 
+[The biggest challenge I encountered was trying to figure out the logic of the game in a language I had little prior experience with. The game’s functionality was implemented with javascript so it was difficult trying to make a game with a language I did not really know how to use. Before this project, I had only ever used javascript when working through Free Code Camp’s website development course. In this course, I had step-by-step guidance, so it was easy. However, when I tried implementing the logic of this project without CodePath’s provided guide, I was really lost because my experience with javascript just wasn’t there. To overcome this, I looked at all of the references given by CodePath. For example, I read the documentation provided for the getElementById function to learn what the function does, how it works, and how it can be used in different situations. Another thing I did to overcome this lack of javascript experience was watching a tutorial for javascript on youtube. Through this tutorial, I learned why javascript is so powerful in web development and some essential methods in javascript. In the end, I used CodePath’s provided logic for the game because I simply did not know how to approach it. However, I made sure that I understood every aspect of the logic and I now believe that if I did this project from scratch, I could implement the game’s logic on my own.]
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After getting some HTML, CSS, and javascript experience under my belt, I'm left wondering about other Javascript frameworks. I have heard and read a little about different javascript frameworks like Node.js, React, and AngularJS. I'm left wondering what these frameworks are for, why they are used, what makes them so popular, and what are the differences between each framework. I am also left wondering how the back ends of websites work. The light and sound memory game included mostly front-end work, so it left me thinking about how back-end programming looks. Finally, some questions I have about web development as a whole is if a web developer has to have artistic talents in some sense. I ask this because almost all popular websites nowadays are beautifully structured, so I wonder if the developers create the layout of a website and program it, or if a designer designs the layout of a website and the programmers simply program the designer's website layout?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had more time to work on this project I would first try to make the website look better. I’m a strong believer that the look of a website is among the most important aspects of a website. If a website looks good, then more users will be inclined to visit and revisit the website. Another important aspect of a website is its functionality. That’s why I would also try to improve the game. As it stands currently, my project repeats the same pattern every time anyone plays the game. So the first thing I would try to implement is a function that sets a random pattern every time the game is started. Then, I would try to implement different difficulties for the game. In easy mode, the pattern would be shown at the same speed every time, in the medium mode the speed of the pattern would increase, and in hard mode, the speed of the pattern would increase once again and the buttons would shift around.]
 
 
 
@@ -66,7 +66,7 @@ The biggest challenge I encountered when trying to make the Light and Sound Memo
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Oscar Diaz Vega]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

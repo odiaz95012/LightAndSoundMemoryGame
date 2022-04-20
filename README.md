@@ -12,13 +12,13 @@ Link to project: (https://glitch.com/edit/#!/morning-ajar-basil?path=script.js%3
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [X] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [X] Game buttons each light up and play a sound when clicked. 
+* [X] Computer plays back sequence of clues including sound and visual cue for each button
+* [X] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [X] User wins the game after guessing a complete pattern
+* [X] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [X] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -47,7 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used a javscript tutorial youtube video by Programming with Mosh to help me learn the syntax and power of javascript. ]
+[I used a javscript tutorial youtube video by Programming with Mosh to help me learn the syntax and power of javascript. I also used StackOverflow to help me develop the function which generates a random pattern for the game everytime the game is started.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [The biggest challenge I encountered was trying to figure out the logic of the game in a language I had little prior experience with. The game’s functionality was implemented with javascript so it was difficult trying to make a game with a language I did not really know how to use. Before this project, I had only ever used javascript when working through Free Code Camp’s website development course. In this course, I had step-by-step guidance, so it was easy. However, when I tried implementing the logic of this project without CodePath’s provided guide, I was really lost because my experience with javascript just wasn’t there. To overcome this, I looked at all of the references given by CodePath. For example, I read the documentation provided for the getElementById function to learn what the function does, how it works, and how it can be used in different situations. Another thing I did to overcome this lack of javascript experience was watching a tutorial for javascript on youtube. Through this tutorial, I learned why javascript is so powerful in web development and some essential methods in javascript. In the end, I used CodePath’s provided logic for the game because I simply did not know how to approach it. However, I made sure that I understood every aspect of the logic and I now believe that if I did this project from scratch, I could implement the game’s logic on my own.]

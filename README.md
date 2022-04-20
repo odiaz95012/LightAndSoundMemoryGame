@@ -4,7 +4,7 @@
 
 Submitted by: **Oscar Diaz Vega**
 
-Time spent: **6** hours spent in total
+Time spent: **3** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/morning-ajar-basil?path=script.js%3A1%3A0)
 
@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/182wUH61V_kM2Hp8AI8ZjlruREVE2gOc8/view?usp=sharing)
 
 
 ## License

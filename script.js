@@ -2,16 +2,31 @@
 const clueHoldTime = 1000; //how long to hold each clue's light/sound
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
+const patternLength = 8;
 //Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+//var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+var pattern = [];
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5; // must be between 0.0 and 1.0
 var guessCounter = 0;
 
+function randomButton(min, max){ // generates a random number from 1 - 4, representing a button
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function generatePattern(){ // makes a random pattern every time the game is started
+  for(let i = 0; i < patternLength; i++){
+      pattern.push(randomButton(1,4));
+  }
+  return pattern;
+}
+
 function startGame(){
   //initialize game variables
+  generatePattern();
   progress = 0;
   gamePlaying = true;
   //swap the Start and Stop Buttons
@@ -22,6 +37,7 @@ function startGame(){
 function stopGame(){
   //Update game variables to stop the game
   gamePlaying = false;
+  pattern = [];
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
   

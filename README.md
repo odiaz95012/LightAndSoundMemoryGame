@@ -39,15 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](![ezgif com-gif-maker](https://user-images.githubusercontent.com/22061327/162362981-df4aa445-4b2a-4616-a16a-ab4275eec05e.gif)
- )
+![](![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/22061327/164137772-463be6e1-2d69-46f5-8b67-f2daaef49ddd.gif)
+)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used a javascript tutorial youtube video by Programming with Mosh to help me learn the syntax and power of javascript. I also used StackOverflow to help me develop the function which generates a random pattern for the game every time the game is started.]
+[I used a javascript tutorial youtube video by Programming with Mosh to help me learn the syntax and power of javascript. I also used StackOverflow to help me develop the function which generates a random pattern for the game every time the game is started and to style the buttons.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [The biggest challenge I encountered was trying to figure out the logic of the game in a language I had little prior experience with. The game’s functionality was implemented with javascript so it was difficult trying to make a game with a language I did not really know how to use. Before this project, I had only ever used javascript when working through Free Code Camp’s website development course. In this course, I had step-by-step guidance, so it was easy. However, when I tried implementing the logic of this project without CodePath’s provided guide, I was really lost because my experience with javascript just wasn’t there. To overcome this, I looked at all of the references given by CodePath. For example, I read the documentation provided for the getElementById function to learn what the function does, how it works, and how it can be used in different situations. Another thing I did to overcome this lack of javascript experience was watching a tutorial for javascript on youtube. Through this tutorial, I learned why javascript is so powerful in web development and some essential methods in javascript. In the end, I used CodePath’s provided logic for the game because I simply did not know how to approach it. However, I made sure that I understood every aspect of the logic and I now believe that if I did this project from scratch, I could implement the game’s logic on my own.]

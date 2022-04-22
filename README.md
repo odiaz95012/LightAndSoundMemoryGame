@@ -39,13 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164583750-4413f2f8-4ab8-483f-9946-e5a9a109d47d.gif)
+![](![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164584367-034f5c52-d2b1-4c54-b902-b0f1b7892944.gif)
 )
-![](gif2-link-here![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164583782-e3fd8f4a-88cd-452b-ba98-1653b2fee5ef.gif)
+![](![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164584395-5d17f381-efed-4f3e-93c8-9de7a0c279f6.gif)
 )
-![](gif3-link-here![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/22061327/164584106-85477572-9c80-4ef4-a378-4592018f0036.gif)
+![](![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/22061327/164584407-06694317-da34-4184-9b02-c613014bd61c.gif)
 )
-![](gif4-link-here![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/22061327/164584208-ff7c3b27-7a80-4210-b306-354dbffee28b.gif)
+![](![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/22061327/164584416-84b7755c-8829-4d6d-be78-5e38a72cf8ce.gif)
 )
 
 ## Reflection Questions

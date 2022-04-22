@@ -39,9 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164583490-48209d06-28e1-40b4-8521-2d1d12874181.gif)
+![](gif1-link![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164583750-4413f2f8-4ab8-483f-9946-e5a9a109d47d.gif)
 )
-![](gif2-link-here)
+![](gif2-link![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164583782-e3fd8f4a-88cd-452b-ba98-1653b2fee5ef.gif)
+-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 

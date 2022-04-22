@@ -39,10 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164583750-4413f2f8-4ab8-483f-9946-e5a9a109d47d.gif))
-![](gif2-link-here![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164583782-e3fd8f4a-88cd-452b-ba98-1653b2fee5ef.gif))
-![](gif3-link-here)
-![](gif4-link-here)
+![](gif1-link-here![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164583750-4413f2f8-4ab8-483f-9946-e5a9a109d47d.gif)
+)
+![](gif2-link-here![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164583782-e3fd8f4a-88cd-452b-ba98-1653b2fee5ef.gif)
+)
+![](gif3-link-here![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/22061327/164584106-85477572-9c80-4ef4-a378-4592018f0036.gif)
+)
+![](gif4-link-here![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/22061327/164584208-ff7c3b27-7a80-4210-b306-354dbffee28b.gif)
+)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

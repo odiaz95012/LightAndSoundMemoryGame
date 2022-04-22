@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](![62620296ec89d348857049](https://user-images.githubusercontent.com/22061327/164577859-6d51949a-aae0-4849-9772-eb53141c82b8.gif)
+![](![Light___Sound_Memory_Game_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/22061327/164578284-be72fed5-3610-49f4-be6b-ba481021ca81.gif)
+)
 )
 ![](gif2-link-here)
 ![](gif3-link-here)

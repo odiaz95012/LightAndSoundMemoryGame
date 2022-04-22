@@ -42,7 +42,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ![](![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/22061327/164584771-2df8bf41-b799-419e-9d37-8d562c58f2ea.gif)
 )
-
 ![](![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/22061327/164584831-1aec3ccf-7a92-424f-bfdf-6d3dab353c54.gif)
 )
 ![](![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/22061327/164584407-06694317-da34-4184-9b02-c613014bd61c.gif)

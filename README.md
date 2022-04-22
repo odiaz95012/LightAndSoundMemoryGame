@@ -41,10 +41,13 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](![LightSoundGIF1](https://user-images.githubusercontent.com/22061327/164584367-034f5c52-d2b1-4c54-b902-b0f1b7892944.gif)
 )
+
 ![](![LightSoundGIF2](https://user-images.githubusercontent.com/22061327/164584395-5d17f381-efed-4f3e-93c8-9de7a0c279f6.gif)
 )
+
 ![](![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/22061327/164584407-06694317-da34-4184-9b02-c613014bd61c.gif)
 )
+
 ![](![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/22061327/164584416-84b7755c-8829-4d6d-be78-5e38a72cf8ce.gif)
 )
 

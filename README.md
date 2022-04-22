@@ -37,8 +37,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](![Light___Sound_Memory_Game_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/22061327/164578284-be72fed5-3610-49f4-be6b-ba481021ca81.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
